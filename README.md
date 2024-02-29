@@ -11,7 +11,7 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-Powershell 7 ou supérieur
+* Powershell 7+ ou Gnu bash 5+ 
 ```
 
 ### Installation
